@@ -31,7 +31,7 @@ body {
       #ffffff 26.59%,
       rgba(255, 255, 255, 0) 100.84%
     ),
-    url(assets/bg-img.JPEG);
+    url(assets/bg-img.jpeg);
   background-size: cover;
   background-position: center;
 }
