@@ -26,12 +26,12 @@ body {
   justify-content: center;
   align-items: start;
 
-  background-image: linear-gradient(
+  background: linear-gradient(
       89.79deg,
       #ffffff 26.59%,
       rgba(255, 255, 255, 0) 100.84%
     ),
-    url(../assets/bg-img.jpeg);
+    url(./assets/bg-img.jpeg);
   background-size: cover;
   background-position: center;
 }
